@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@aws-amplify/predictions": "^6.0.27",
     "@aws-sdk/client-polly": "^3.540.0",
     "aws-amplify": "^6.0.23",
     "react": "^18.2.0",
